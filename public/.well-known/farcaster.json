@@ -10,14 +10,14 @@
     "subtitle": "Built with Zara",
     "description": "TipBase is a Base Mini App built with Zara.",
     "iconUrl": "https://0co.to/images/zara-2.png",
-    "homeUrl": "https://e5d55863-ee84-45dd-8aa1-bc5fbbc485ba.vistara.dev",
-    "splashImageUrl": "https://dummyimage.com/200x200/0a0b0d/ffffff.png&text=Splash",
+    "homeUrl": "https://e5d55863ee8445dd8aa1bc5fbbc485ba-ft71-h7ossra5g-vistara.vercel.app",
+    "splashImageUrl": "https://e5d55863ee8445dd8aa1bc5fbbc485ba-ft71-h7ossra5g-vistara.vercel.app/splash.png",
     "splashBackgroundColor": "#000000",
-    "heroImageUrl": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=Hero",
+    "heroImageUrl": "https://e5d55863ee8445dd8aa1bc5fbbc485ba-ft71-h7ossra5g-vistara.vercel.app/image.png",
     "tagline": "TipBase",
     "screenshotUrls": [
-      "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=Shot1",
-      "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=Shot2"
+      "https://e5d55863ee8445dd8aa1bc5fbbc485ba-ft71-h7ossra5g-vistara.vercel.app/screenshot.png",
+      "https://e5d55863ee8445dd8aa1bc5fbbc485ba-ft71-h7ossra5g-vistara.vercel.app/screenshot.png"
     ],
     "primaryCategory": "social",
     "tags": [
@@ -25,6 +25,6 @@
       "miniapp",
       "onchainkit"
     ],
-    "webhookUrl": "https://e5d55863-ee84-45dd-8aa1-bc5fbbc485ba.vistara.dev/api/webhook"
+    "webhookUrl": "https://e5d55863ee8445dd8aa1bc5fbbc485ba-ft71-h7ossra5g-vistara.vercel.app/api/webhook"
   }
 }
